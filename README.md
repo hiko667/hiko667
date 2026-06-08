@@ -1,4 +1,4 @@
-## Hello 🖐️😁
+## Hello 
 I'm a comp-sci student from Poland, this is my private porfolio, where i upload all of my personal and uni projects
 
 ## Technologies I Worked With
@@ -15,6 +15,6 @@ I'm a comp-sci student from Poland, this is my private porfolio, where i upload 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## Current Projects
-- 🐉 Hydra, a managment app
-- 📁 Shepherd, file manager
-- 🌐 Marsian Library, asp.net page for uni
+-  Hydra, a managment app
+-  Shepherd, file manager
+-  Marsian Library, asp.net page for uni
