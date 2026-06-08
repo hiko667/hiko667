@@ -1,8 +1,9 @@
 ## Hello 🖐️😁
+I'm a comp-sci student from Poland, this is my private porfolio, where i upload all of my personal and uni projects
 
-
-## Technologies
+## Favourite Technologies
 ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 <!-- - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
